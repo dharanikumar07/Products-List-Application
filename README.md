@@ -8,7 +8,7 @@
 </p>
 <h1>About this Project</h1><br>
 ->In this project. I implement CRUD operation by using PHP Laravel Framework <br>
-![Screenshot 2024-07-09 205345](https://github.com/dharanikumar07/Products-List-App/assets/138891582/5d198700-b6e4-452f-8944-7a4b62cb3700.png)
+<img src="https://github.com/dharanikumar07/Products-List-App/assets/138891582/5d198700-b6e4-452f-8944-7a4b62cb3700.png" alt="License">
 
 
 ## About Laravel
