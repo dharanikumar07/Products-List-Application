@@ -8,7 +8,6 @@
 </p>
 <h1>About this Project</h1><br>
 ->In this project. I implement CRUD operation by using PHP Laravel Framework <br>
-->For creating a product, deleting a product, Listing a no of products presented in database and delete a products we use CRUD operation
 
 ## About Laravel
 
