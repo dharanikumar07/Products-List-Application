@@ -79,10 +79,4 @@ class ProductController extends Controller
         $product->delete(); 
         return back()->withSuccess("Product Detials Deleted success....");
     }
-    public function search(Request $request)
-    {
-        $search=$request->search;
-        $products=Product::where('name','like','%'.$search.'%')->paginate(6);
-        return view('products.index',['products'=>$products]);
-    }
 }
