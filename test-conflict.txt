@@ -1,0 +1,74 @@
+I began my software journey with a strong curiosity about how applications
+ work behind the scenes. What started as simple experimentation gradually turned 
+ into a focused pursuit of building real-world systems. I was especially drawn to backend development, 
+ where logic, performance, and architecture come together to create meaningful impact.
+
+ Early on, I chose to work with Laravel as my primary backend framework. Its elegant structure 
+ and powerful features helped me understand core concepts like MVC architecture, routing, and database 
+ management. Alongside it, I explored PostgreSQL to gain a deeper understanding of relational databases and 
+ how to design scalable data models.
+
+As I progressed, I didn’t just focus on writing code—I focused on understanding systems. I became 
+interested in how applications handle real-world complexity: queues, background jobs, caching, and 
+event-driven architectures. Redis became an important part of my stack as I explored performance 
+optimization and asynchronous processing.
+
+On the frontend, I started working with React.js to build interactive user interfaces. This allowed me to 
+connect the backend logic with user experience, creating full-stack applications. I learned how to manage state, 
+build reusable components, and structure applications in a clean, maintainable way.
+
+One of the key turning points in my journey was working on industry-level projects. Instead of small tutorials,
+ I started building real SaaS-style applications like analytics dashboards, subscription trackers, and expense management 
+ systems. These projects pushed me to think about scalability, user experience, and production-level challenges.
+
+I also gained experience integrating with third-party platforms, especially in the e-commerce space. Working with APIs, 
+handling webhooks, and ensuring secure communication (like HMAC verification) helped me understand how distributed systems 
+interact with each other in real-world environments.
+
+Debugging and problem-solving became a core part of my daily work. Whether it was fixing complex backend 
+issues, optimizing database queries, or resolving integration bugs, I learned how to approach problems systematically. 
+Each challenge improved my ability to think critically and design better solutions.
+
+Over time, I developed a strong interest in system design. I started thinking beyond individual features and 
+began focusing on how entire systems are structured—how data flows, how services communicate, and how performance 
+can be optimized at scale. This mindset helped me grow from a developer into someone who can design robust applications.
+
+I also believe in learning by building. Instead of jus
+I also gained experience integrating with third-party platforms, especially in the e-commerce space. Working with APIs, 
+handling webhooks, and ensuring secure communication (like HMAC verification) helped me understand how distributed systems 
+interact with each other in real-world environments.t consuming theory, I continuously work on projects that 
+simulate real-world use cases. This hands-on approach has helped me gain confidence in my skills and understand 
+the practical challenges developers face in production environments.
+I also gained experience integrating with third-party platforms, especially in the e-commerce space. Working with APIs, 
+handling webhooks, and ensuring secure communication (like HMAC verification) helped me understand how distributed systems 
+interact with each other in real-world environments.
+
+Today, my journey is still evolving. I aim to master backend architecture, build scalable SaaS products, 
+and deepen my expertise in modern technologies. With every project I take on, I strive to improve not just my 
+coding skills, but also my ability to design systems that are efficient, reliable, and meaningful.
+I also gained experience integrating with third-party platforms, especially in the e-commerce space. Working with APIs, 
+handling webhooks, and ensuring secure communication (like HMAC verification) helped me understand how distributed systems 
+interact with each other in real-world environments.
+
+
+I also gained experience integrating with third-party platforms, especially in the e-commerce space. Working with APIs, 
+handling webhooks, and ensuring secure communication (like HMAC verification) helped me understand how distributed systems 
+interact with each other in real-world environments.
+
+I also gained experience integrating with third-party platforms, especially in the e-commerce space. Working with APIs, 
+handling webhooks, and ensuring secure communication (like HMAC verification) helped me understand how distributed systems 
+interact with each other in real-world environments.
+
+I also gained experience integrating with third-party platforms, especially in the e-commerce space. Working with APIs, 
+handling webhooks, and ensuring secure communication (like HMAC verification) helped me understand how distributed systems 
+interact with each other in real-world environments.
+
+I also gained experience integrating with third-party platforms, especially in the e-commerce space. Working with APIs, 
+handling webhooks, and ensuring secure communication (like HMAC verification) helped me understand how distributed systems 
+interact with each other in real-world environments.
+I also gained experience integrating with third-party platforms, especially in the e-commerce space. Working with APIs, 
+handling webhooks, and ensuring secure communication (like HMAC verification) helped me understand how distributed systems 
+interact with each other in real-world environments.
+I also gained experience integrating with third-party platforms, especially in the e-commerce space. Working with APIs, 
+handling webhooks, and ensuring secure communication (like HMAC verification) helped me understand how distributed systems 
+interact with each other in real-world environments.
